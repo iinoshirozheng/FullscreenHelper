@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FullscreenHelper": {
+      "commandName": "Project",
+      "commandLineArgs": "--caption=\"Fantasia Sango\"",
+      "nativeDebugging": true
+    }
+  }
+}
